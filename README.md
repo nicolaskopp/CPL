@@ -21,4 +21,4 @@ Overall, the CPL could represent a win-win situation for companies looking to im
 
 ## Alternate License
 
-There is also an Add-On Version of this License to be used as a module for existing licenes. You can find it in the repo under the name `CPL-Add-On`
+There is also an Add-On Version of this License to be used as a module for existing licenes. You can find it in the repo under the name `CRA`
