@@ -1,5 +1,5 @@
-# CPL
-Climate Public License (CPL)
+# Climate Public License (CPL)
+Climate Public License (CPL) Version 1.0
 
 # Idea
 The "Climate Public License" (CPL) is a free copyleft license for software and other works with a special requirement to combat climate change. The main principles of the CPL are that any work published under this license must be publicly accessible and free to modify and redistribute. However, a key feature of this license is that any commercial use of the work must be demonstrably climate-neutral. This means that companies using the software directly or indirectly for commercial purposes must conduct their business activities in a way that they do not cause any net CO2 emissions. This includes active measures to reduce greenhouse gas emissions and, if necessary, legitimate and verifiable offset measures.
