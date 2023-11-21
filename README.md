@@ -23,4 +23,4 @@ Overall, the CPL could represent a win-win situation for companies looking to im
 
 The Climate Responsibility Addendum (CRA) is designed to be attached to existing open source licenses to introduce climate responsibility obligations. It does not alter the original permissions, limitations, or conditions of the underlying license but adds additional terms related to climate responsibility.
 
-You can find it in this repo under the name `[CRA](CRA)`.
+You can find it in this repo under the name [CRA](CRA).
