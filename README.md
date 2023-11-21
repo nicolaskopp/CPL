@@ -18,3 +18,7 @@ In addition, the CPL could also offer financial benefits. Governments and other 
 Last but not least, the CPL could also help create a community of like-minded companies and developers. This could lead to new partnerships, collaborations, and even innovations, as companies and developers work together to find solutions that are both commercially successful and climate-friendly.
 
 Overall, the CPL could represent a win-win situation for companies looking to improve both their ecological and economic performance.
+
+## Alternate License
+
+There is also an Add-On Version of this License to be used as a module for existing licenes. You can find it in the repo under the name `CPL-Add-On`
