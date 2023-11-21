@@ -1,0 +1,40 @@
+Climate Public License (CPL) Version 1.0
+
+
+Preamble
+The Climate Public License (CPL) is a free, copyleft license for software and other kinds of works, with a special requirement to address climate change. The main principles of the CPL are that any covered work is freely available to the public and can be modified and redistributed, with the stipulation that any commercial use of the work must be demonstrably climate-neutral. This license is designed to ensure that the use of the work actively supports efforts to combat climate change and does not contribute to increased CO2 emissions.
+
+Definitions
+“This License” refers to version 1.0 of the Climate Public License.
+“The Program” refers to any work of authorship distributed under this License.
+“You” refers to the individual or entity exercising permissions granted by this License.
+“Climate Neutral” means that the net amount of carbon dioxide or other greenhouse gases emitted directly or indirectly by a business or activity is zero, achieved through a combination of minimizing emissions and, if necessary, legitimate and verifiable offsetting measures.
+“Source Form” refers to the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+“Object Form” refers to any form resulting from mechanical transformation or translation of a Source Form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+1. Permissions
+You are permitted to use, copy, modify, and distribute the Program in any medium, with or without modifications, and for any purpose, including commercial purposes, provided that you comply with the terms and conditions of this License.
+
+2. Climate Neutrality Obligation
+If you use the Program for commercial purposes, directly or indirectly, you must operate your business in a climate-neutral manner. This includes, but is not limited to:
+a. Actively reducing greenhouse gas emissions associated with the use of the Program.
+b. Implementing verifiable and legitimate offset measures for any remaining emissions.
+c. Ensuring that your use of the Program does not directly or indirectly lead to an overall increase in CO2 emissions.
+You must provide public documentation annually demonstrating your climate neutrality in relation to the use of the Program. This documentation must be detailed, transparent, and verifiable.
+
+3. Redistribution
+a. You may redistribute the Program in Source Form or Object Form, provided that you:
+Include a copy of this License with the Program.
+Ensure that any modified files carry prominent notices stating that you changed the files.
+Disclose the source of the Program, and if the Program is distributed in Object Form, also provide access to the Source Form.
+b. If you redistribute the Program in a commercial context, the obligation to operate in a climate-neutral manner extends to the recipients of the Program.
+
+4. Disclaimer of Warranty
+The Program is provided “as is”, without warranty of any kind, express or implied. The entire risk as to the quality and performance of the Program is with you.
+
+5. Limitation of Liability
+In no event unless required by applicable law will the author or other parties who modify and/or redistribute the Program as permitted above be liable to you for damages, including any general, special, incidental, or consequential damages arising out of the use or inability to use the Program.
+6. Termination
+If you fail to comply with the terms of this License, your rights under this License will terminate automatically.
+7. Acceptance
+By using, modifying, or distributing the Program, you accept and agree to be bound by the terms of this License.
