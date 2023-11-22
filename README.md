@@ -3,10 +3,10 @@
 ## Quicklinks:
 
 - ["Climate Public License" (CPL)](LICENSE) for new projects
-- ["Climate Responsibility Addendum" (CRA)](CRA) for existing projects with other Open Source Licenses
+- ["Climate Responsibility Addendum" (CRA)](CRA) for existing projects
 
 ## Idea
-The "Climate Public License" (CPL) is a free copyleft license for software and other works with a special requirement to combat climate change. The main principles of the CPL are that any work published under this license must be publicly accessible and free to modify and redistribute. However, a key feature of this license is that any commercial use of the work must be demonstrably climate-neutral. This means that companies using the software directly or indirectly for commercial purposes must conduct their business activities in a way that they do not cause any net CO2 emissions. This includes active measures to reduce greenhouse gas emissions and, if necessary, legitimate and verifiable offset measures.
+The "Climate Public License" (CPL) is a free copyleft license for software and other works with a special requirement to combat climate change. The main principle of the CPL is that any commercial use of the work must be demonstrably climate-neutral. This means that companies using the software directly or indirectly for commercial purposes must conduct their business activities in a way that they do not cause any net CO2 emissions. This includes active measures to reduce greenhouse gas emissions and, if necessary, legitimate and verifiable offset measures.
 
 Additionally, the use of the software must not result in products or sub-products that lead to an overall increase in CO2 emissions. The license also requires that companies commercially using the software provide annual public documentation of their climate neutrality in relation to the use of the software. This documentation must be detailed, transparent, and verifiable.
 
@@ -26,6 +26,6 @@ Overall, the CPL could represent a win-win situation for companies looking to im
 
 ## Climate Responsibility Addendum (CRA) for Open Source Licenses
 
-The Climate Responsibility Addendum (CRA) is designed to be attached to existing open source licenses to introduce climate responsibility obligations. It does not alter the original permissions, limitations, or conditions of the underlying license but adds additional terms related to climate responsibility.
+The Climate Responsibility Addendum (CRA) is designed to be attached to existing licenses to introduce climate responsibility obligations. It does not alter the original permissions, limitations, or conditions of the underlying license but adds additional terms related to climate responsibility.
 
 You can find it in this repo under the name [CRA](CRA).
