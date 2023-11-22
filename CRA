@@ -1,9 +1,9 @@
-Climate Responsibility Addendum (CRA) for Open Source Licenses
+Climate Responsibility Addendum (CRA)
 
-This Climate Responsibility Addendum (CRA) is designed to be attached to existing open source licenses to introduce climate responsibility obligations. It does not alter the original permissions, limitations, or conditions of the underlying license but adds additional terms related to climate responsibility.
+This Climate Responsibility Addendum (CRA) is designed to be attached to existing licenses to introduce climate responsibility obligations. It does not alter the original permissions, limitations, or conditions of the underlying license but adds additional terms related to climate responsibility.
 
 1. Addendum Acceptance
-   By using, modifying, or distributing the work covered under the original open source license and this Addendum, you accept and agree to be bound by the terms of both.
+   By using, modifying, or distributing the work covered under the original license and this Addendum, you accept and agree to be bound by the terms of both.
 
 2. Climate Responsibility Obligation
    a. If you use the work for commercial purposes, directly or indirectly, you must operate your business in a climate-neutral manner. This includes actively reducing greenhouse gas emissions associated with the use of the work and implementing verifiable and legitimate offset measures for any remaining emissions.
@@ -11,8 +11,7 @@ This Climate Responsibility Addendum (CRA) is designed to be attached to existin
    c. You must provide public documentation annually demonstrating your climate neutrality in relation to the use of the work. This documentation must be detailed, transparent, and verifiable.
 
 3. Redistribution with Addendum
-   a. If you redistribute the work, you must include a copy of this Addendum along with the original open source license.
-   b. If the work is redistributed in a commercial context, the obligation to operate in a climate-neutral manner extends to the recipients of the work.
+   If you redistribute the work, you must include a copy of this Addendum along with the original license.
 
 4. Termination for Non-Compliance
    If you fail to comply with the terms of this Addendum, your rights under this Addendum and the original open source license will terminate automatically.
